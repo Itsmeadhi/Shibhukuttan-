@@ -4,17 +4,17 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b><u>Hey {}!!</b></u>
+<i>Am SHIBHUKUTTAN BOT... ⚡️
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+I AM ONLY MADE FOR MOVIE STATION GROUP SO YOU CAN'T ADD ME TO ANY GROUP 😜
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@moviestation
 </i>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u>ഡാ ഇവിടെ എന്താടാ പണി ?</u></i></b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
@@ -43,12 +43,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@moviestation
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/@Adhi140141>ADHI</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
