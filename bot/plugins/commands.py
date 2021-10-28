@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'OUR GROUP💥', url="https://t.me/@joinmoviestation"
+                                    '🔰JOIN OUR GROUP🔰', url="https://t.me/joinmoviesstation"
                                 )
                         ]
                     ]
