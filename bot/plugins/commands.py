@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔰JOIN OUR GROUP🔰', url="@joinmoviestationgroup"
+                                    '🔰JOIN OUR GROUP🔰', url='https://t.me/joinmoviestationgroup'
                                 )
                         ]
                     ]
@@ -48,7 +48,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('MY FATHER', url='@Adhi140141'),
-        InlineKeyboardButton(MY GROUP 🧾', url ='@joinmoviestationgroup'
+        InlineKeyboardButton(MY GROUP 🧾', url ='https://t.me/joinmoviestationgroup')
     ],[
         InlineKeyboardButton('MY WHATSAPP GROUP', url='https://chat.whatsapp.com/JT3cKDhh4XRHOqZE42BmiJ')
     ],[
